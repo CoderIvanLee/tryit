@@ -21,6 +21,8 @@
     NSLog(@"初始化项目");
     
     NSLog(@"修改");
+    
+    NSLog(@"再次修改");
 }
 
 - (void)didReceiveMemoryWarning {
