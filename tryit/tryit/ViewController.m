@@ -19,6 +19,8 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"初始化项目");
+    
+    NSLog(@"修改");
 }
 
 - (void)didReceiveMemoryWarning {
